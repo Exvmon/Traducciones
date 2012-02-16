@@ -1,0 +1,44 @@
+DELETE FROM `locales_item` WHERE (`entry`=50166);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (50166,'Técnica: Glifo de Agua eterna','Técnica: Glifo de Agua eterna','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=50168);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (50168,'Técnica: Glifo de descomposición presurosa','Técnica: Glifo de descomposición presurosa','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=50167);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (50167,'Técnica: Glifo de Rejuvenecimiento rápido','Técnica: Glifo de Rejuvenecimiento rápido','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43826);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43826,'Glifo de Golpe sangriento','Glifo de Golpe sangriento','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43538);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43538,'Glifo de Orden oscura','Glifo de Orden oscura','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=45804);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (45804,'Glifo de muerte oscura','Glifo de muerte oscura','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=45805);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (45805,'Glifo de enfermedad','Glifo de enfermedad','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43545);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43545,'Glifo de Entereza ligada al hielo','Glifo de Entereza ligada al hielo','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43548);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43548,'Glifo de Golpe de peste','Glifo de Golpe de peste','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43549);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43549,'Glifo del necrófago','Glifo del necrófago','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43553);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43553,'Glifo de Armadura inquebrantable','Glifo de Armadura inquebrantable','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=45803);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (45803,'Glifo de Añublo profano','Glifo de Añublo profano','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43671);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43671,'Glifo de Deflagración de cadáver','Glifo de Deflagración de cadáver','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43672);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43672,'Glifo de Pestilencia','Glifo de Pestilencia','','');
+
+DELETE FROM `locales_item` WHERE (`entry`=43673);
+INSERT INTO `locales_item` (`entry`, `name_loc6`, `name_loc7`, `description_loc6`, `description_loc7`) VALUES (43673,'Glifo de Levantar a muerto','Glifo de Levantar a muerto','','');
